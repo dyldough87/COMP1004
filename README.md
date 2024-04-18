@@ -7,6 +7,13 @@ I am also keen to tell you about the BMI calculator that has been installed, I h
 I have also made it so that the user has no problem navigating my website with a simplistic UI as I account for all age groups and wish to make this as seamless for anyone who comes across it.
 
 ********************************************************************************************************************************************************
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
